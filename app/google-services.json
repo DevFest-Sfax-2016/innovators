@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331357257225",
+    "firebase_url": "https://devfest-d6802.firebaseio.com",
+    "project_id": "devfest-d6802",
+    "storage_bucket": "devfest-d6802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331357257225:android:47fee724e0ac586b",
+        "android_client_info": {
+          "package_name": "com.example.fares.devfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331357257225-0pa0umkphtgu36otcgoqhaj4qupt3qcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fares.devfest",
+            "certificate_hash": "B7CF1C538BD430A804613D509AAAE2A72C2D4282"
+          }
+        },
+        {
+          "client_id": "331357257225-gaporb1r2qdl487gkhi35s9oglt3t78p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJ3s8v3w4cuHHTvZlvwNk9OqifmnMp0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331357257225-gaporb1r2qdl487gkhi35s9oglt3t78p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
